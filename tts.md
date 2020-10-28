@@ -3,13 +3,13 @@
 
 一、技术文档
 ------
-1.百度开发者中心
-https://ai.baidu.com/tech/speech/tts_online
-2.注册购买百度在线语音合成服务
-3.后端服务代码案例
-https://github.com/Baidu-AIP/speech-demo
-4.费用
-https://ai.baidu.com/ai-doc/SPEECH/Nk38y8pjq
+1. 百度开发者中心
+   https://ai.baidu.com/tech/speech/tts_online
+2. 注册购买百度在线语音合成服务
+3. 后端服务代码案例
+   https://github.com/Baidu-AIP/speech-demo
+4. 费用
+   https://ai.baidu.com/ai-doc/SPEECH/Nk38y8pjq
 
 二、前端
 ---
